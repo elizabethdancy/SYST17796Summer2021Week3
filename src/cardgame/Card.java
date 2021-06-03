@@ -17,9 +17,6 @@ package cardgame;
 public class Card 
 {
 
-    public enum SUIT{
-        
-    }
     public Card(String suit, int value) {
         this.suit = suit;
         this.value = value;
